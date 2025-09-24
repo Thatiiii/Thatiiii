@@ -3,6 +3,6 @@
 
 🌱 Aspiring Software Engineer on a continuous journey growing in tech.
 
-👩‍💻Skilled in C#, HTML, CSS, Java & SQL.
+👩‍💻Skilled in C#, HTML, CSS & SQL.
 
 🧠 Eager to continue learning, growing, and contributing to collaborative tech projects.
